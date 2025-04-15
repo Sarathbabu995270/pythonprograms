@@ -52,31 +52,4 @@ b = 10
 print("Is a identical to b?", a is b)       # Identity (is)
 print("Is a not identical to b?", a is not b)  # Identity (is not)
 
-<<<<<<< HEAD
-#Hello world!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
-# Using a for loop
-for i in range(5):
-    print("Good Morning!")
-
-    # Using a for loop with numbering
-for i in range(1, 6):  # Start range from 1 to include numbering
-    print(f"{i}. Good Morning!")
->>>>>>> 53dfb0c (make some changes)
