@@ -51,3 +51,25 @@ a = 10
 b = 10
 print("Is a identical to b?", a is b)       # Identity (is)
 print("Is a not identical to b?", a is not b)  # Identity (is not)
+
+# Simple program to print numbers from 1 to 5 using a for loop
+
+for i in range(1, 6):  # range(1, 6) generates numbers from 1 to 5
+    print("Number:", i)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
